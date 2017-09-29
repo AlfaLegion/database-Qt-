@@ -1,0 +1,20 @@
+'Berline'  'Germany'  '1616042958599'
+
+'New York'  'USA'  '1621031386399'
+
+'Berline'  'Germany'  '1622020101899'
+
+'Kazan'  'Russia'  '1638112116399'
+
+'Paris'  'France'  '1643122012299'
+
+'Las Vegas'  'USA'  '1645082126899'
+
+'Kazan'  'Russia'  '1662042694099'
+
+'Moscow'  'Russia'  '1668080535599'
+
+'Las Vegas'  'USA'  '1670080883999'
+
+'Paris'  'France'  '1672071705499'
+
